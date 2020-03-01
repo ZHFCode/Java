@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Advance/Advance.iml" filepath="$PROJECT_DIR$/Advance/Advance.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ZCY/ZCY.iml" filepath="$PROJECT_DIR$/ZCY/ZCY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZHFCODE/src/zhf/ZCY.iml" filepath="$PROJECT_DIR$/ZHFCODE/src/zhf/ZCY.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZHFCODE/ZHFCODE.iml" filepath="$PROJECT_DIR$/ZHFCODE/ZHFCODE.iml" />
     </modules>
   </component>
